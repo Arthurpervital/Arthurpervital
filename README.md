@@ -2,7 +2,7 @@
 
 **`Analista de Qualidade de Software`**
 
-Olá! me Arthur, tenho 31 anos, sou formado em Análise e Desenvolvimento de Sistemas. 
+Olá! me chamo Arthur, tenho 31 anos, sou formado em Análise e Desenvolvimento de Sistemas. 
 
 Iniciei minha trajetória na área de suporte técnico e implantação de sistemas, tive oportunidade de ser desenvolvedor C# e direcionei minha carreira para qualidade de software onde possuo atualmente maior conhecimento e experiência de trabalho.
 
