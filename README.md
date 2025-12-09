@@ -6,7 +6,7 @@ Olá! me chamo Arthur, tenho 31 anos, sou formado em Análise e Desenvolvimento 
 
 Iniciei minha trajetória na área de suporte técnico e implantação de sistemas, tive oportunidade de ser desenvolvedor C# e direcionei minha carreira para qualidade de software onde possuo atualmente maior conhecimento e experiência de trabalho.
 
-Nesse GitHub você irá encontrar repositorios de estudos e portifolios profissionais, seja muito bem vindo!
+Nesse GitHub você irá encontrar repositorios de estudos e portifolios, seja muito bem vindo!
 
 
 ### 🤖 Linguagens e Tecnologias
