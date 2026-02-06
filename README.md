@@ -3,8 +3,11 @@
 **`QA Analyst`**
 
 Over the past few years, I have built solid experience in Quality Assurance, working with functional and non-functional testing, exploratory, integration, regression, usability, reliability, and security testing, as well as database validation and requirements analysis. I have hands-on experience testing web, mobile, and API-based systems.
+
 I perform both manual and automated testing using Cypress (Web and API) and Postman, with a strong focus on end-to-end quality and preventing production issues. I also have good knowledge of SQL Server and MySQL, enabling deeper data validation and critical flow analysis.
+
 My technical background includes previous experience in technical support, system implementation, and C# .NET development, working within both legacy and innovation squads. This has given me a broad understanding of the software development lifecycle, strong empathy for end users, and effective communication with technical teams.
+
 Currently, I am preparing for my first international testing certification (ISTQB CTFL), reinforcing my commitment to best practices and continuous professional growth in Quality Assurance.
 
 
